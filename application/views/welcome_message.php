@@ -77,14 +77,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         </div>
     </nav>
 
-    <nav>
+<!--    <nav>
         <div class="nav-wrapper indigo darken-2">
             <a style="margin-left: 20px;" class="breadcrumb" href="#!">Admin</a>
             <a class="breadcrumb" href="#!">Index</a>
 
             <div style="margin-right: 20px;" id="timestamp" class="right"></div>
         </div>
-    </nav>
+    </nav>-->
 </header>
 
 <main>
@@ -158,7 +158,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <div style="padding: 35px;" align="center" class="card">
                 <div class="row">
                     <div class="left card-title">
-                        <b>Capteur 4</b>
+                        <b>Capteur 5</b>
                     </div>
                 </div>
                 <div class="row">
@@ -189,7 +189,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     </div>
 </main>
 
-<footer class="indigo page-footer">
+<!--<footer class="indigo page-footer">
     <div class="container">
         <div class="row">
             <div class="col s12">
@@ -210,7 +210,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <span>Made By <a style='font-weight: bold;' href="https://github.com/norskel" target="_blank">Norskel</a></span>
         </div>
     </div>
-</footer>
+</footer>-->
 </body>
 
 </html>
