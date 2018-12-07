@@ -11,3 +11,4 @@ Ces données devront pouvoir être affichées sous la forme de tableaux de bord 
 ## Schéma
 
 ## Aperçu de l'application web
+![Dashboard](img/dashboard.png)
